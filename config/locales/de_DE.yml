@@ -292,9 +292,9 @@ de_DE:
     search:
       start: Suche beginnen...
   landing:
-    about: "%{href} Sie können Ihre eigenen Räume erstellen, um Web-Konferenzen zu veranstalten oder Sie können bestehenden Konferenzen über einen kurzen und bequemen Link beitreten."
-    welcome: Willkommen zur Videokoferenz-Lösung von Kibichat.
-    video: Schauen Sie sich unsere Anleitung zur Verwendung von Kibichat an
+    about: "Bei %{href} können Sie Ihre eigenen Räume erstellen, um Web-Konferenzen zu veranstalten oder bestehenden Konferenzen einfach und bequem beitreten."
+    welcome: Willkommen zur Videokonferenz-Lösung von Kibichat.
+    video: Schauen Sie sich unsere Videoanleitung an
     upgrade: ""
     version: "Wir haben eine neue Version von Kibichat veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
   language_default: Voreinstellung (Browsersprache)
