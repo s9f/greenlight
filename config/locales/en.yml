@@ -265,7 +265,7 @@ en:
     privpolicy: Privacy Policy
     powered_by: Powered by %{href}.
   forgot_password:
-    subtitle: Forgot Password
+    subtitle: Reset or change password
     email: Email
     submit: Submit
   go_back: Go back

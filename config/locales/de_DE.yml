@@ -264,7 +264,7 @@ de_DE:
     privpolicy: Datenschutzerklärung
     powered_by: "Bereitgestellt durch %{href}."
   forgot_password:
-    subtitle: Passwort vergessen
+    subtitle: Passwort setzen oder ändern
     email: E-Mail
     submit: Abschicken
   go_back: Zurück
